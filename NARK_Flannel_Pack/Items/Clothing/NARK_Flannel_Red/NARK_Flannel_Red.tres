@@ -1,0 +1,23 @@
+[gd_resource type="Resource" script_class="ItemData" format=3]
+
+[ext_resource type="Script" path="res://Scripts/ItemData.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+file = "NARK_Flannel_Red"
+name = "Red Flannel"
+inventory = "Flannel"
+rotated = "Flannel"
+equipment = "Flannel"
+display = "Flannel"
+type = "Clothing"
+weight = 2.1
+value = 180
+rarity = 2
+size = Vector2(2, 2)
+audio = null
+slots = ["Torso"]
+capacity = 6
+insulation = 39
+civilian = true
+military = false

@@ -1,0 +1,12 @@
+[mod]
+replace_files=false
+id="nark_flannel_pack"
+name="NARK's Flannels"
+version="0.1.1"
+priority=500
+author="NARK"
+
+[autoload]
+NARK_Flannel_Pack="res://NARK_Flannel_Pack/Main.gd"
+
+[registry]
