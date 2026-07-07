@@ -8,11 +8,11 @@ const ITEMS := [
 		"id": "NARK_Flannel_Red",
 		"name": "Red Flannel",
 		"short_name": "Flannel",
-		"weight": 2.1,
+		"weight": 1.7,
 		"value": 180,
 		"rarity": 2,
-		"capacity": 6,
-		"insulation": 39,
+		"capacity": 8,
+		"insulation": 45,
 		"size": [
 			2,
 			2
@@ -36,11 +36,11 @@ const ITEMS := [
 		"id": "NARK_Flannel_Blue",
 		"name": "Blue Flannel",
 		"short_name": "Flannel",
-		"weight": 2.1,
+		"weight": 1.7,
 		"value": 180,
 		"rarity": 2,
-		"capacity": 6,
-		"insulation": 39,
+		"capacity": 8,
+		"insulation": 45,
 		"size": [
 			2,
 			2
@@ -64,11 +64,11 @@ const ITEMS := [
 		"id": "NARK_Flannel_Black",
 		"name": "Black Flannel",
 		"short_name": "Flannel",
-		"weight": 2.1,
+		"weight": 1.7,
 		"value": 180,
 		"rarity": 2,
-		"capacity": 6,
-		"insulation": 39,
+		"capacity": 8,
+		"insulation": 45,
 		"size": [
 			2,
 			2
